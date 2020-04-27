@@ -56,9 +56,3 @@ body {
 /* End Section */
 
 
-@media (max-width: 767px) {
-  .row > div > article {
-    width: 80%;
-    margin: 20px auto 0;
-  }
-}
