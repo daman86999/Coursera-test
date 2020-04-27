@@ -43,8 +43,8 @@ body {
   float: left;
 }
 
-.text-center p{
-  color:#009;
+p{
+  color:#343434b3;
 }
 
 .row > div > article {
