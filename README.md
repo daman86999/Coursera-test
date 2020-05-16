@@ -1,8 +1,7 @@
 # Coursera-test
 Coursera test  repository
 
-solution 1
-https://daman86999.github.io/Coursera-test/module1/
+
 
 solution 2 
 https://daman86999.github.io/Coursera-test/module2/
